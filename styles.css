@@ -1,0 +1,45 @@
+/* add your CSS here */
+
+span {
+    font-weight: bold;
+}
+.baseinfo{
+    border: .5px solid black;
+    text-align: left;
+}
+.interestingFact{
+    font-style: italic;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+img{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+.wrapper{
+    margin: auto;
+    width: 320px;
+    border: 1px solid rgba(100, 100, 100, .5);
+    box-shadow: 10px 10px rgba(98, 97, 97, 0.3);
+    background: rgb(150,150,100);
+    border-radius: 20px;
+}
+.innerText{
+    width: 280px;
+    margin: 0 auto;
+    border: 1px solid rgba(100, 100, 100, .5);
+    padding: 10px 10px;
+    margin: 10px 10px;
+    background: #fff;
+    border-radius: 20px;
+}
+h3{
+    margin: 10px 10px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bolder;
+}
